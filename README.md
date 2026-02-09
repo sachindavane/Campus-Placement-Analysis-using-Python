@@ -1,23 +1,42 @@
-# Campus-Placement-Analysis-using-Python
-I used Python to clean campus placement data and performed EDA to identify how skills, academics, and internships influence placement and salary.
+# Campus Placement Analysis using Python
 
-This project analyzes campus placement data using Python to understand how academics, skills, and internships affect student placement and salary, using data cleaning and visualization techniques.
+## 📌 Project Overview
 
-Campus Placement Analysis | Python, Pandas, Seaborn:
+This project analyzes campus placement data to identify factors
+affecting student placement and salary using Python.
 
-Processed and cleaned structured placement data with missing and duplicate records.
-Built visual analytics to study relationships between skills, academics, internships, and salary.
-Discovered strong correlation between technical/communication skills and salary outcomes.
-Delivered data-driven insights to understand hiring trends and placement success factors.
+## 🛠 Tools & Technologies
 
-Insight:
+-   Python
+-   Pandas, NumPy
+-   Matplotlib, Seaborn
 
-1-Majority of students are placed, indicating good campus hiring trends.
+## 📊 Key Analysis
 
-2-Students with higher degree percentages have a higher chance of placement.
+-   Data Cleaning & Preprocessing
+-   Exploratory Data Analysis (EDA)
+-   Placement & Salary Insights
 
-3-Strong positive relationship between technical skills and salary offered.
+## 🔍 Insights
 
-4-Students with more internships are more likely to get placed.
+-   Technical and communication skills strongly impact salary
+-   Internships increase placement chances
+-   Tier-1 city students receive higher packages
 
-5-Tier-1 city students tend to receive higher salary packages.
+## 🎯 Role Fit
+
+**Data Analyst:** Data cleaning, visualization, insight generation\
+**Python Developer:** Data handling, scripting, analytical logic
+
+## 🚀 How to Run
+
+``` bash
+pip install pandas numpy matplotlib seaborn
+```
+
+Run the Jupyter notebook or Python script.
+
+## 📈 Future Enhancements
+
+-   Add Machine Learning placement prediction
+-   Build interactive dashboard
